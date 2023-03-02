@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<gra>
+    <runda id="1">
+        <nazwa>Bez lew</nazwa>
+    </runda>
+    <runda id="2">
+        <nazwa>Bez kierow</nazwa>
+    </runda>
+    <runda id="3">
+        <nazwa>Bez dam</nazwa>
+    </runda>
+    <runda id="4">
+        <nazwa>Bez panow</nazwa>
+    </runda>
+    <runda id="5">
+        <nazwa>Bez krola kier</nazwa>
+    </runda>
+    <runda id="6">
+        <nazwa>Bez siodmej i ostatniej</nazwa>
+    </runda>
+    <runda id="7">
+        <nazwa>Rozbojnik</nazwa>
+    </runda>
+</gra>
