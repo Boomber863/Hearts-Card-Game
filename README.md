@@ -1,5 +1,5 @@
 # Hearts-Card-Game
-Card Game of Hearts made in the terminal using Java
+Card Game of Hearts working in the terminal using Java
 
 Full ruleset in polish: https://www.kurnik.pl/kierki/zasady.phtml
 
